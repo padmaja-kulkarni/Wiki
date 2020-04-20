@@ -1,8 +1,9 @@
 Ubuntu fresh install on HP Omen/HP gaming Laptops.
 
 
-**Problem: Laptop has  nvidia graphics card and PC freezes while the installation.**
-**Problem: The system is running in low-graphics mode.**
+**Problem 1: Laptop has  nvidia graphics card and PC freezes while the installation.**
+
+**Problem 2: The system is running in low-graphics mode.**
 
 
 1. F9 to change boot priority and F10 to change boot settings. (OR find curresponding keys, if your laptop is not HP).
